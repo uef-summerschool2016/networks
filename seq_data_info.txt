@@ -1,0 +1,10 @@
+seq_data_info.txt
+
+One-hot encoded DNA sequences of 1000bp regions with found peaks from 4 ChIP-seq experiments.
+
+Data presented in seq_data.mat in the following order:
+- 2000 random Rad21 peak regions from K562 cell line (label: [1,0,0,0])
+- 2000 random E2F4 peak regions from K562 cell line (label: [0,1,0,0])
+- 2000 random Nrf1 peak regions from GM12878 cell line (label: [0,0,1,0])
+- 1438 random BRCA1 peak regions from GM12787 cell line (label: [0,0,0,1])
+
